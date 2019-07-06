@@ -2632,10 +2632,10 @@
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/USDPrimResolverKind.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/USDSceneImportFactory.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/UsdTestActor.o
-/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/AndroidCameraModule-D5E5DE2CFBD6F383.o
+/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/AndroidCameraModule-E7F9AEE28C0A599D.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/AndroidJavaCameraPlayer.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/AndroidCameraPlayer.o
-/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/AndroidCameraModule-E412FB601366E68.o
+/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/AndroidCameraModule-5B833027CFAF49C8.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/AndroidCameraRuntimeSettings.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/AndroidCameraFactoryModule.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/AndroidCameraSettings.o
@@ -4113,7 +4113,7 @@
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/DirectoryWatcherModule.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/DirectoryWatcherProxy.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/DirectoryWatcherTests.o
-/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/FileCache-5819F9F931DFF49D.o
+/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/FileCache-8F07C164726E274A.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/FileCacheUtilities.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/DirectoryWatcherMac.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/DirectoryWatchRequestMac.o
@@ -4432,11 +4432,11 @@
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/SourceControlSettings.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/SSourceControlLogin.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/SSourceControlPicker.o
-/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/SlateOpenGLContext-EAE8A96F3A2B52EC.o
+/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/SlateOpenGLContext-527C2FB4A25E4DAA.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/SlateOpenGLESView.o
-/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/SlateOpenGLViewport-BEBD8D52FF8A3BE9.o
-/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/SlateOpenGLContext-6C3AC416BE2FADB0.o
-/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/SlateOpenGLViewport-101BBB88F0E19FA1.o
+/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/SlateOpenGLViewport-42DB4110B4337363.o
+/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/SlateOpenGLContext-8BB4CF0D27924657.o
+/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/SlateOpenGLViewport-5EB582F96A574872.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/SlateOpenGLExtensions.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/SlateOpenGLIndexBuffer.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/SlateOpenGLRenderer.o
@@ -4968,7 +4968,7 @@
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/DragDropHandler.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/EmptyFolderVisibilityManager.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/FrontendFilters.o
-/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/HistoryManager-60A5394D464A36BC.o
+/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/HistoryManager-FC7121DE4CE14B79.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/NativeClassHierarchy.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/NewAssetOrClassContextMenu.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/PathContextMenu.o
@@ -5570,7 +5570,7 @@
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/MatineeViewportClient.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/SMatineeRecorder.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/MergeActorsModule.o
-/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/Utils-2E686DCDBCCED53D.o
+/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/Utils-D1A97F6A787F2281.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/MeshInstancingTool.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/SMeshInstancingDialog.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/MeshMergingTool.o
@@ -6263,7 +6263,7 @@
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/PopulateDialogueWaveFromCharacterSheetCommandlet.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/ReplaceAssetsCommandlet.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/ShaderPipelineCacheToolsCommandlet.o
-/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/StabilizeLocalizationKeys-D707A1CFD381E093.o
+/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/StabilizeLocalizationKeys-276DAFD81D5DDC4F.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/SwapSoundForDialogueInCuesCommandlet.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/TextAssetCommandlet.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/UnrealPakCommandlet.o
@@ -6463,7 +6463,7 @@
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/PackageRestore.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/PackageTools.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/ParamParser.o
-/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/PerformanceMonitor-4D2F393C9618AE7B.o
+/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/PerformanceMonitor-EDD7EBAE6B989C53.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/PhysicsAssetUtils.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/PhysicsManipulationMode.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/PlayLevel.o
@@ -6563,7 +6563,7 @@
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/UnrealEdTypes.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/UnrealWidget.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/UserDefinedStructEditorData.o
-/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/Utils-AFD2107D9B4CA881.o
+/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/Utils-94BEB9F3A1203FA6.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/VertexSnapping.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/VolumeTexturePreview.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/UnrealEdMessagesModule.o
@@ -6805,7 +6805,7 @@
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/GridPathFollowingComponent.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/MetaNavMeshPath.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/NavFilter_AIControllerDefault.o
-/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/NavigationInterfaces-ED5DFFDFC77C1B85.o
+/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/NavigationInterfaces-8D1E251FB3CFA383.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/NavLinkProxy.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/NavLocalGridData.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/NavLocalGridManager.o
@@ -7269,7 +7269,7 @@
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/SHMath.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/Sobol.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/Sphere.o
-/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/Transform-2A594C324984A69B.o
+/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/Transform-88F6BC36F114E55C.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/TransformVectorized.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/UnitConversion.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/UnrealMath.o
@@ -7282,7 +7282,7 @@
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/BufferedOutputDevice.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/Change.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/CommandLine.o
-/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/Compression-21E99B468D7B49B.o
+/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/Compression-D51E459C59AAC4B4.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/ConfigCacheIni.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/ConfigManifest.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/CoreAsyncTaskNotificationImpl.o
@@ -7356,7 +7356,7 @@
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/MallocProfiler.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/ProfilingHelpers.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/ScopedDebugInfo.o
-/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/Archive-30A07B1DA08C9ECB.o
+/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/Archive-786DA9F0A570E27F.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/ArchiveFromStructuredArchive.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/ArchiveLoadCompressedProxy.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/ArchiveProxy.o
@@ -7383,7 +7383,7 @@
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/AsyncTest.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/TaskGraphTest.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/PlatformTest.o
-/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/ArchiveTest-C8C6D7113FFA2588.o
+/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/ArchiveTest-77CEF68C3709DF8C.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/DateTimeFormattingRulesTest.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/ManifestTest.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/MetadataTest.o
@@ -7426,7 +7426,7 @@
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/PackageLocalizationCache.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/PackageLocalizationManager.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/PackageLocalizationUtil.o
-/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/StabilizeLocalizationKeys-1971F67D18E60598.o
+/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/StabilizeLocalizationKeys-E94FE4A51A766AA1.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/TextPackageNamespaceUtil.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/ExclusiveLoadPackageTimeTracker.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/GCObjectReferencer.o
@@ -7457,8 +7457,8 @@
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/JsonArchiveOutputFormatter.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/TaggedBinaryArchiveInputFormatter.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/TaggedBinaryArchiveOutputFormatter.o
-/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/ObjectReader-A84B271847217DA7.o
-/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/ObjectWriter-BBEDDBEB83B3688B.o
+/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/ObjectReader-F4E627AF83B0A666.o
+/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/ObjectWriter-6F9DE18D8364808D.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/PropertyLocalizationDataGathering.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/TextReferenceCollector.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/TraceReferences.o
@@ -7468,13 +7468,13 @@
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/CoreNet.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/CoreRedirects.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/EditPropertyChain.o
-/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/Enum-FA53D5ADA675C52.o
+/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/Enum-1E59DA965EBD8E6F.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/EnumProperty.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/ErrorException.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/FindStronglyConnected.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/GarbageCollection.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/GarbageCollectionVerification.o
-/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/Interface-278E7B4F1E15A7E.o
+/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/Interface-FCABF50E3DF0BA87.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/LazyObjectPtr.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/Linker.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/LinkerLoad.o
@@ -7484,7 +7484,7 @@
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/LinkerPlaceholderExportObject.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/LinkerPlaceholderFunction.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/LinkerSave.o
-/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/MetaData-FEA4B617D7FCDF74.o
+/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/MetaData-41C579A8CF88BEAF.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/Obj.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/ObjectBaseUtility.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/ObjectMemoryAnalyzer.o
@@ -7604,7 +7604,7 @@
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/AvoidanceManager.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/NavCollisionBase.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/NavigationDataChunk.o
-/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/NavigationInterfaces-1FD102EAEAC43094.o
+/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/NavigationInterfaces-FCE900C7E58ACE6F.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/NavigationModifier.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/NavigationTypes.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/NavigationSystemBase.o
@@ -7907,9 +7907,9 @@
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/EngineUtils.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/ErrorChecking.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/ExternalTexture.o
-/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/FileCache-712B14249DBD9882.o
+/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/FileCache-63CEBCD9EAB8256E.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/FloatingPawnMovement.o
-/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/Font-48C4A66F85D4E232.o
+/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/Font-B60246AD8696226E.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/FontFace.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/GameDelegates.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/GameEngine.o
@@ -7965,7 +7965,7 @@
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/InputVectorAxisDelegateBinding.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/InstancedReferenceSubobjectHelper.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/InstancedStaticMesh.o
-/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/Interface-44FBDB6076EEFD77.o
+/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/Interface-3AE4207E6F997396.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/EnginePackageLocalizationCache.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/StringTable.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/InterpCurveEdSetup.o
@@ -8409,7 +8409,7 @@
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/VirtualTextureChunkManager.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/VirtualTextureChunkProviders.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/VirtualTextureDataBuilder.o
-/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/VirtualTextureSpace-B2D4349377BF4A.o
+/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/VirtualTextureSpace-FF4E174E150A8883.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/WeightedRandomSampler.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/WindDirectionalSource.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/World.o
@@ -8442,7 +8442,7 @@
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/SegmentMesh.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/SmokeEvolution.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/SpatialHash.o
-/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/Transform-266BA1E5A365970.o
+/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/Transform-9D2362866303FDA1.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/TriangleMesh.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/UniformGrid.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/ChaosModule.o
@@ -8903,7 +8903,7 @@
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/NavGraphGenerator.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/NavigationGraph.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/NavigationData.o
-/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/NavigationInterfaces-C2BFB67BA692E956.o
+/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/NavigationInterfaces-427CCAE28401F69.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/NavigationInvokerComponent.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/NavigationOctree.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/NavigationPath.o
@@ -8997,7 +8997,7 @@
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/BuildPatchVerifyChunkData.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/ChunkDataSizeProvider.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/FileSystem.o
-/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/HttpManager-1040895B40B35064.o
+/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/HttpManager-3EA027DC38E62647.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/SpeedRecorder.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/StatsCollector.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/PatchDataCompactifier.o
@@ -9396,7 +9396,7 @@
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/TexturePagePool.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/VirtualTextureAllocator.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/VirtualTextureFeedback.o
-/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/VirtualTextureSpace-6B9342963C941FA9.o
+/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/VirtualTextureSpace-3DC4FEA98C637D49.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/VirtualTextureSystem.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/VirtualTextureTest.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/VirtualTexturing.o
@@ -9642,7 +9642,7 @@
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/LayoutUtils.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/SlateRect.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/SlateRotatedRect.o
-/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/Visibility-A870F51D33A5FA98.o
+/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/Visibility-EA669011FBC80C97.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/WidgetCaching.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/WidgetPath.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/DrawElements.o
@@ -9782,7 +9782,7 @@
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/GridSlot.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/HorizontalBox.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/HorizontalBoxSlot.o
-/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/Image-62499F23FF0C0190.o
+/Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/Image-9632C2AE6702367A.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/InputKeySelector.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/InvalidationBox.o
 /Users/theBuilder/Desktop/EscapeGame/Escape Game Unreal/EscapeGame/Intermediate/ProjectFiles/build/UE4.build/Development/UE4_Index.build/Objects-normal/x86_64/ListView.o

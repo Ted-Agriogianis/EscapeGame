@@ -2373,7 +2373,7 @@
   /Users/Shared/Epic\ Games/UE_4.22/Engine/Source/Runtime/CoreUObject/Public/UObject/GeneratedCppIncludes.h \
   /Users/Shared/Epic\ Games/UE_4.22/Engine/Source/Runtime/CoreUObject/Public/UObject/MetaData.h \
   /Users/theBuilder/Desktop/EscapeGame/Escape\ Game\ Unreal/EscapeGame/Source/EscapeGame/OpenDoor.h \
-  /Users/Shared/Epic\ Games/UE_4.22/Engine/Source/Runtime/Engine/Classes/Gameframework/Actor.h \
   /Users/Shared/Epic\ Games/UE_4.22/Engine/Source/Runtime/Engine/Classes/Engine/TriggerVolume.h \
   /Users/Shared/Epic\ Games/UE_4.22/Engine/Intermediate/Build/Mac/UE4Editor/Inc/Engine/TriggerVolume.generated.h \
+  /Users/Shared/Epic\ Games/UE_4.22/Engine/Source/Runtime/Engine/Classes/Gameframework/Actor.h \
   /Users/theBuilder/Desktop/EscapeGame/Escape\ Game\ Unreal/EscapeGame/Intermediate/Build/Mac/UE4Editor/Inc/EscapeGame/OpenDoor.generated.h
