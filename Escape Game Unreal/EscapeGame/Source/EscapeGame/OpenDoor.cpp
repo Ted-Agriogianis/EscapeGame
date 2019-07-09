@@ -1,8 +1,8 @@
 // Fill out your copyright notice in the Description page of Project Settings.
+#include "OpenDoor.h"
 #include "EscapeGame.h"
 #include "Gameframework/Actor.h"
 #include "Runtime/Engine/Classes/GameFramework/Actor.h"
-#include "OpenDoor.h"
 
 // Sets default values for this component's properties
 UOpenDoor::UOpenDoor()

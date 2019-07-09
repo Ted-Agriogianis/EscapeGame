@@ -2370,9 +2370,9 @@
   /Applications/XCode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/initializer_list \
   /Users/theBuilder/Desktop/EscapeGame/Escape\ Game\ Unreal/EscapeGame/Source/EscapeGame/OpenDoor.cpp \
   /Users/theBuilder/Desktop/EscapeGame/Escape\ Game\ Unreal/EscapeGame/Intermediate/Build/Mac/UE4Editor/Development/EscapeGame/Definitions.EscapeGame.h \
-  /Users/theBuilder/Desktop/EscapeGame/Escape\ Game\ Unreal/EscapeGame/Source/EscapeGame/EscapeGame.h \
-  /Users/Shared/Epic\ Games/UE_4.22/Engine/Source/Runtime/Engine/Classes/Gameframework/Actor.h \
   /Users/theBuilder/Desktop/EscapeGame/Escape\ Game\ Unreal/EscapeGame/Source/EscapeGame/OpenDoor.h \
   /Users/Shared/Epic\ Games/UE_4.22/Engine/Source/Runtime/Engine/Classes/Engine/TriggerVolume.h \
   /Users/Shared/Epic\ Games/UE_4.22/Engine/Intermediate/Build/Mac/UE4Editor/Inc/Engine/TriggerVolume.generated.h \
-  /Users/theBuilder/Desktop/EscapeGame/Escape\ Game\ Unreal/EscapeGame/Intermediate/Build/Mac/UE4Editor/Inc/EscapeGame/OpenDoor.generated.h
+  /Users/Shared/Epic\ Games/UE_4.22/Engine/Source/Runtime/Engine/Classes/Gameframework/Actor.h \
+  /Users/theBuilder/Desktop/EscapeGame/Escape\ Game\ Unreal/EscapeGame/Intermediate/Build/Mac/UE4Editor/Inc/EscapeGame/OpenDoor.generated.h \
+  /Users/theBuilder/Desktop/EscapeGame/Escape\ Game\ Unreal/EscapeGame/Source/EscapeGame/EscapeGame.h

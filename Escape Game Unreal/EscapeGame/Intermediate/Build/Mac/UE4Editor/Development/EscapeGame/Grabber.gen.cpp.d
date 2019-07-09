@@ -2373,4 +2373,6 @@
   /Users/Shared/Epic\ Games/UE_4.22/Engine/Source/Runtime/CoreUObject/Public/UObject/GeneratedCppIncludes.h \
   /Users/Shared/Epic\ Games/UE_4.22/Engine/Source/Runtime/CoreUObject/Public/UObject/MetaData.h \
   /Users/theBuilder/Desktop/EscapeGame/Escape\ Game\ Unreal/EscapeGame/Source/EscapeGame/Grabber.h \
+  /Users/Shared/Epic\ Games/UE_4.22/Engine/Source/Runtime/Engine/Classes/PhysicsEngine/PhysicsHandleComponent.h \
+  /Users/Shared/Epic\ Games/UE_4.22/Engine/Intermediate/Build/Mac/UE4Editor/Inc/Engine/PhysicsHandleComponent.generated.h \
   /Users/theBuilder/Desktop/EscapeGame/Escape\ Game\ Unreal/EscapeGame/Intermediate/Build/Mac/UE4Editor/Inc/EscapeGame/Grabber.generated.h

@@ -4,6 +4,8 @@
 
 #include "CoreMinimal.h"
 #include "Components/ActorComponent.h"
+#include "PhysicsEngine/PhysicsHandleComponent.h"
+#include "Components/InputComponent.h"
 #include "Grabber.generated.h"
 
 
@@ -24,5 +26,13 @@ public:
 	// Called every frame
 	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
 
-		
+private:
+    FVector PlayerViewPosition;
+    FRotator PlayerViewRotation;
+    float Reach = 100.f;
+    UPhysicsHandleComponent* PhysicsHandle = nullptr;
+    UInputComponent* Input = nullptr;
+    void Grab();
+    void Release();
+    const FHitResult GetFirstObjectInReach();
 };
